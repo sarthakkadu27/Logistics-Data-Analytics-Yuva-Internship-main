@@ -1,0 +1,7 @@
+Vehicle_Type,Average_Delivery_Time_hr,Average_Transportation_Cost,Average_Distance_km,Average_Shipment_Weight_kg,Number_of_Shipments
+ truck ,23.89,10617.44,719.0,2384.6,1
+Container,18.13,9850.16,677.98,1377.37,58
+Mini Truck,20.85,11470.75,850.35,1164.22,60
+Tempo,18.83,10026.61,721.88,1210.61,57
+Truck,20.19,11208.08,812.44,1357.69,64
+Van,20.94,11605.22,858.6,1311.55,57

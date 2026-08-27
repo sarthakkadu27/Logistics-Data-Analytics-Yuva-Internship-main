@@ -1,0 +1,306 @@
+Shipment_ID,Shipment_Date,Origin,Destination,Distance_km,Shipment_Weight_kg,Vehicle_Type,Shipment_Volume,Delivery_Time_hr,Transportation_Cost,Delivery_Status
+SHP10001,2026-01-01,Nagpur,Delhi,206,2074.4,Tempo,2.4,12.63,6493.97,Delivered
+SHP10002,2026-01-02,Nagpur,Hyderabad,1179,2245.6,Mini Truck,31.1,27.2,14563.42,Delivered
+SHP10003,2026-01-03,Pune,Delhi,1009,393.6,Mini Truck,25.1,21.2,9497.12,Delivered
+SHP10004,2026-01-04,Hyderabad,Nashik,703,1407.4,Mini Truck,6.9,19.71,10439.37,Delivered
+SHP10005,2026-01-05,Pune,Delhi,694,316.0,Tempo,4.1,19.05,9949.76,Delivered
+SHP10006,2026-01-06,Chennai,Hyderabad,1299,1697.0,Mini Truck,7.2,30.12,16289.43,Delivered
+SHP10007,2026-01-07,Bengaluru,Pune,202,739.0,Van,34.3,6.16,4539.12,Delivered
+SHP10008,2026-01-08,Chennai,Nashik,1070,1665.6,Tempo,16.6,23.11,11886.44,Delivered
+SHP10009,2026-01-09,Chennai,Nashik,366,1831.1,Van,27.7,10.42,6560.55,Delivered
+SHP10010,2026-01-10,Nagpur,Surat,213,1933.2,Container,22.6,7.1,5822.71,Delayed
+SHP10011,2026-01-11,Bengaluru,Delhi,827,314.0,Mini Truck,20.5,19.7,10988.24,Delivered
+SHP10012,2026-01-12,Delhi,Pune,1465,2294.2,Mini Truck,5.9,36.16,22287.96,Delayed
+SHP10013,2026-01-13,Hyderabad,Chennai,1124,,Container,33.2,25.29,15339.94,Delivered
+SHP10014,2026-01-14,Pune,Bengaluru,1160,141.7,Mini Truck,11.2,20.77,15509.39,Delayed
+SHP10015,2026-01-15,Mumbai,Nashik,1098,1409.4,Mini Truck,20.7,25.6,16164.54,Delivered
+SHP10016,2026-01-16,Hyderabad,Chennai,1196,958.8,Van,24.8,26.79,16938.47,Delivered
+SHP10017,2026-01-17,Ahmedabad,Hyderabad,808,2083.0,Tempo,23.1,25.86,9899.31,Delivered
+SHP10018,2026-01-18,Hyderabad,Nashik,261,2030.2,Truck,33.0,8.73,6505.25,In Transit
+SHP10019,2026-01-19,Ahmedabad,Surat,1272,827.0,Tempo,6.0,27.53,13673.52,Delivered
+SHP10020,2026-01-20,Pune,Bengaluru,719,2384.6, truck ,18.3,23.89,10617.44,Delivered
+SHP10021,2026-01-21,Bengaluru,Pune,790,762.7,Van,14.7,20.35,8024.2,Delivered
+SHP10022,2026-01-22,Hyderabad,Pune,606,1311.9,Container,17.1,18.02,9688.47,Delayed
+SHP10023,2026-01-23,Delhi,Bengaluru,339,677.1,Truck,5.1,11.36,6186.89,Delivered
+SHP10024,2026-01-24,Mumbai,Hyderabad,1396,2343.3,Truck,5.6,33.39,18749.69,Delivered
+SHP10025,2026-01-25,Mumbai,Pune,1189,453.3,Container,10.5,27.82,11261.96,Delivered
+SHP10026,2026-01-26,Nagpur,Mumbai,994,160.0,Truck,11.4,20.68,10015.61,In Transit
+SHP10027,2026-01-27,Hyderabad,Chennai,651,1116.0,Mini Truck,15.5,19.19,8100.98,Delivered
+SHP10028,2026-01-28,Delhi,Surat,1248,2481.3,Truck,21.8,27.49,18954.69,Delivered
+SHP10029,2026-01-29,Delhi,Pune,854,2234.6,Truck,22.6,23.38,14269.01,In Transit
+SHP10030,2026-01-30,Mumbai,Hyderabad,709,1884.1,Van,15.0,19.94,10710.81,Delivered
+SHP10031,2026-01-31,Nagpur,Pune,719,2232.4,Truck,14.9,19.03,9959.59,Delivered
+SHP10032,2026-02-01,Mumbai,Chennai,402,2238.9,Truck,8.4,14.46,8425.12,Delivered
+SHP10033,2026-02-02,Ahmedabad,Surat,210,1321.2,Van,21.0,8.46,4761.99,Delivered
+SHP10034,2026-02-03,Pune,Surat,867,824.0,Truck,11.8,18.8,12194.78,Delivered
+SHP10035,2026-02-04,Delhi,Hyderabad,1340,1941.4,Van,2.2,30.43,18106.65,Delivered
+SHP10036,2026-02-05,Delhi,Chennai,170,1671.1,Truck,15.2,7.27,4401.51,Delayed
+SHP10037,2026-02-06,Ahmedabad,Nashik,1298,965.5,Truck,17.1,29.62,17708.8,Delayed
+SHP10038,2026-02-07,Mumbai,Hyderabad,1255,281.4,Truck,8.7,24.92,,Delivered
+SHP10039,2026-02-08,Delhi,Bengaluru,472,1879.6,Container,20.5,16.69,8819.81,Delivered
+SHP10040,2026-02-09,Delhi,Surat,976,693.0,Container,20.2,20.37,9488.34,Delivered
+SHP10041,2026-02-10,Delhi,Hyderabad,314,2345.2,Tempo,24.9,11.93,8410.53,In Transit
+SHP10042,2026-02-11,Pune,Surat,1156,640.4,Mini Truck,23.0,24.68,15243.18,Delivered
+SHP10043,2026-02-12,Nagpur,Hyderabad,1074,350.8,Truck,23.2,26.68,10414.38,Delivered
+SHP10044,2026-02-13,Bengaluru,Surat,583,2086.2,Tempo,11.8,18.24,8593.88,Delivered
+SHP10045,2026-02-14,Bengaluru,Pune,176,425.5,Mini Truck,27.8,7.38,3650.75,Delivered
+SHP10046,2026-02-15,Bengaluru,Pune,1458,489.2,Tempo,19.7,32.21,14040.75,Delivered
+SHP10047,2026-02-16,Nagpur,Pune,712,1518.5,Container,15.7,14.9,11339.7,Delayed
+SHP10048,2026-02-17,Delhi,Hyderabad,1348,2192.7,Van,22.3,31.56,18968.59,Delivered
+SHP10049,2026-02-18,Delhi,Chennai,1042,531.3,Tempo,13.3,27.7,14341.96,In Transit
+SHP10050,2026-02-19,Delhi,Mumbai,1185,810.3,Truck,18.4,26.97,13357.69,Delivered
+SHP10051,2026-02-20,Delhi,Mumbai,1159,1954.6,Mini Truck,26.0,28.0,14487.11,Delayed
+SHP10052,2026-02-21,Mumbai,Surat,356,2431.0,Van,31.1,15.04,6692.28,Delayed
+SHP10053,2026-02-22,Hyderabad,Surat,596,1276.8,Tempo,32.3,18.45,7599.63,In Transit
+SHP10054,2026-02-23,Mumbai,Chennai,742,402.5,Container,18.1,14.07,7913.5,Delivered
+SHP10055,2026-02-24,Pune,Bengaluru,786,84.1,Tempo,18.7,15.05,10775.86,Delivered
+SHP10056,2026-02-25,Pune,Bengaluru,142,612.7,Truck,28.2,7.88,4241.34,Delivered
+SHP10057,2026-02-26,Delhi,Pune,856,373.0,Van,11.7,18.67,11455.11,Delivered
+SHP10058,2026-02-27,Ahmedabad,Mumbai,299,1710.3,Container,29.5,14.5,7417.69,Delivered
+SHP10059,2026-02-28,Hyderabad,Nashik,1135,348.5,Van,17.8,24.5,12728.0,In Transit
+SHP10060,2026-03-01,Nagpur,Delhi,1049,1290.5,Van,4.9,21.05,14197.37,In Transit
+SHP10061,2026-03-02,Delhi,Chennai,1389,1750.9,Mini Truck,3.5,29.22,16443.0,Delivered
+SHP10062,2026-03-03,Nagpur,Chennai,1137,1473.7,Mini Truck,29.6,21.28,13818.06,Delivered
+SHP10063,2026-03-04,Mumbai,Delhi,600,539.5,Mini Truck,2.9,15.21,6736.58,Delayed
+SHP10064,2026-03-05, pune ,Mumbai,1453,2020.1,Van,10.5,32.93,16499.66,In Transit
+SHP10065,2026-03-06,Ahmedabad,Chennai,663,1802.7,Tempo,12.4,17.78,11987.76,Delivered
+SHP10066,2026-03-07,Hyderabad,Pune,542,1860.5,Tempo,6.9,18.67,9888.61,Delivered
+SHP10067,2026-03-08,Nagpur,Bengaluru,1365,371.1,Van,11.7,31.75,17933.36,Delayed
+SHP10068,2026-03-09,Delhi,Nashik,606,353.2,Container,26.3,15.18,6934.98,Delivered
+SHP10069,2026-03-10,Mumbai,Chennai,188,2322.5,Van,1.5,6.47,6584.86,Delivered
+SHP10070,2026-03-11,Ahmedabad,Surat,746,1024.1,Van,29.1,20.26,8922.75,In Transit
+SHP10071,2026-03-12,Mumbai,Pune,1209,787.3,Truck,30.1,28.22,13040.59,In Transit
+SHP10072,2026-03-13,Ahmedabad,Mumbai,349,1247.0,Mini Truck,13.7,12.75,5562.77,In Transit
+SHP10073,2026-03-14,Chennai,Delhi,737,1674.0,Container,6.2,21.75,9235.09,Delayed
+SHP10074,2026-03-15,Ahmedabad,Delhi,264,2391.3,Van,21.4,9.89,8149.26,Delivered
+SHP10075,2026-03-16,Bengaluru,Mumbai,1054,751.8,Truck,5.1,28.26,11289.44,Delivered
+SHP10076,2026-03-17,Nagpur,Nashik,755,2315.8,Mini Truck,13.4,19.12,11825.61,Delivered
+SHP10077,2026-03-18,Pune,Mumbai,548,110.9,Tempo,33.6,15.62,6724.57,Delivered
+SHP10078,2026-03-19,Bengaluru,Chennai,402,1410.2,Container,34.8,9.95,6421.85,Delivered
+SHP10079,2026-03-20,Mumbai,Hyderabad,881,1603.2,Truck,27.3,20.45,12958.84,Delivered
+SHP10080,2026-03-21,Ahmedabad,Hyderabad,1031,309.4,Container,11.6,26.22,10148.54,Delivered
+SHP10081,2026-03-22,Chennai,Mumbai,1415,393.8,Mini Truck,24.4,29.77,18883.91,Delayed
+SHP10082,2026-03-23,Ahmedabad,Delhi,700,1076.8,Mini Truck,25.0,19.95,10653.58,Delivered
+SHP10083,2026-03-24,Ahmedabad,Hyderabad,308,2417.3,Tempo,14.2,13.53,7983.66,Delivered
+SHP10084,2026-03-25,Delhi,Delhi,1262,1510.3,Tempo,22.8,28.89,15647.61,Delivered
+SHP10085,2026-03-26,Mumbai,Chennai,974,2335.9,Container,1.4,,13529.04,Delivered
+SHP10086,2026-03-27,Nagpur,Pune,1074,2020.7,Mini Truck,8.1,25.94,17840.38,Delayed
+SHP10087,2026-03-28,Bengaluru,Pune,218,1195.1,Van,18.9,6.11,4915.64,Delivered
+SHP10088,2026-03-29,Mumbai,Chennai,523,1972.7,Truck,6.6,14.72,7649.63,Delivered
+SHP10089,2026-03-30,Nagpur,Hyderabad,1170,93.7,Van,6.6,26.51,11818.74,Delayed
+SHP10090,2026-03-31,Nagpur,Pune,1261,317.4,Truck,29.4,28.17,15806.29,Delivered
+SHP10091,2026-04-01,Bengaluru,Nashik,698,2082.1,Container,34.6,16.53,11378.79,Delivered
+SHP10092,2026-04-02,Ahmedabad,Pune,1222,2002.2,Mini Truck,19.9,27.63,17826.13,Delivered
+SHP10093,2026-04-03,Mumbai,Nashik,1275,620.0,Mini Truck,29.5,26.9,16392.9,Delivered
+SHP10094,2026-04-04,Mumbai,Chennai,630,1350.4,Truck,34.7,16.65,8177.69,Delivered
+SHP10095,2026-04-05,Delhi,Nashik,1355,1534.7,Container,5.8,28.08,19108.1,Delivered
+SHP10096,2026-04-06,Chennai,Nashik,489,2176.0,Truck,16.2,14.74,8723.27,Delivered
+SHP10097,2026-04-07,Pune,Delhi,420,1527.6,Container,14.3,12.36,7177.49,Delivered
+SHP10098,2026-04-08,Mumbai,Surat,1049,1060.8,Container,3.7,26.13,9915.14,Delivered
+SHP10099,2026-04-09,Chennai,Mumbai,984,966.8,Van,26.7,24.89,14887.74,Delivered
+SHP10100,2026-04-10,Ahmedabad,Bengaluru,278,1093.4,Container,15.7,10.32,5221.69,Delayed
+SHP10101,2026-04-11,Chennai,Mumbai,1262,1647.2,Mini Truck,17.0,28.51,12467.44,Delivered
+SHP10102,2026-04-12,Ahmedabad,Bengaluru,363,2175.4,Container,6.1,13.99,8081.91, delayed 
+SHP10103,2026-04-13,Ahmedabad,Surat,1222,1162.0,Van,7.2,26.25,12825.5,Delivered
+SHP10104,2026-04-14,Hyderabad,Bengaluru,90,657.2,Mini Truck,31.8,4.28,2927.32,Delivered
+SHP10105,2026-04-15,Hyderabad,Pune,1211,629.8,Truck,2.5,25.04,14934.17,Delivered
+SHP10106,2026-04-16,Ahmedabad,Delhi,1197,1877.7,Van,8.9,27.18,15822.72,Delayed
+SHP10107,2026-04-17,Delhi,Surat,1188,2050.6,Truck,10.9,26.2,18402.3,Delayed
+SHP10108,2026-04-18,Mumbai,Hyderabad,1024,307.9,Tempo,17.7,23.38,10795.56,Delivered
+SHP10109,2026-04-19,Ahmedabad,Hyderabad,749,213.1,Mini Truck,20.9,19.38,9646.47,Delivered
+SHP10110,2026-04-20,Delhi,Bengaluru,1081,1506.4,Truck,17.8,22.63,14473.56,In Transit
+SHP10111,2026-04-21,Nagpur,Delhi,473,408.1,Container,3.9,13.23,6890.47,Delivered
+SHP10112,2026-04-22,Bengaluru,Hyderabad,1188,2070.4,Truck,9.3,28.12,17329.92,Delivered
+SHP10113,2026-04-23,Ahmedabad,Chennai,869,810.3,Container,29.7,21.64,10848.46,Delivered
+SHP10114,2026-04-24,Mumbai,Nashik,731,402.5,Container,22.7,17.84,10413.7,Delivered
+SHP10115,2026-04-25,Chennai,Hyderabad,797,2306.4,Truck,23.1,18.88,10396.51,Delayed
+SHP10116,2026-04-26,Bengaluru,Nashik,887,455.6,Truck,23.8,18.25,9231.52,Delivered
+SHP10117,2026-04-27,Bengaluru,Surat,132,747.6,Container,26.9,7.53,3974.4,In Transit
+SHP10118,2026-04-28,Delhi,Pune,278,426.4,Tempo,3.0,11.72,4976.65,Delivered
+SHP10119,2026-04-29,Nagpur,Bengaluru,428,333.0,Truck,13.5,7.83,5145.63,Delivered
+SHP10120,2026-04-30,Bengaluru,Bengaluru,242,101.8,Van,19.3,9.24,3923.59,Delivered
+SHP10121,2026-05-01,Ahmedabad,Pune,704,185.7,Mini Truck,12.5,19.44,9828.74,Delivered
+SHP10122,2026-05-02,Bengaluru,Mumbai,1029,477.9,Truck,29.7,23.09,13209.21,Delivered
+SHP10123,2026-05-03,Mumbai,Surat,1009,180.8,Van,17.4,23.7,13712.5,Delivered
+SHP10124,2026-05-04,Nagpur,Delhi,748,1498.3,Truck,27.1,18.33,11336.49,Delivered
+SHP10125,2026-05-05,Pune,Mumbai,1294,1717.8,Tempo,30.0,29.74,16884.14,Delivered
+SHP10126,2026-05-06,Delhi,Delhi,882,1014.4,Van,18.2,18.24,10889.16,Delivered
+SHP10127,2026-05-07,Ahmedabad,Delhi,192,829.1,Tempo,31.9,3.99,4788.08,Delivered
+SHP10128,2026-05-08,Nagpur,Mumbai,1166,1286.1,Tempo,21.0,28.92,13698.71,Delivered
+SHP10129,2026-05-09,Nagpur,Pune,895,2193.8,Mini Truck,29.9,21.44,13536.57,Delivered
+SHP10130,2026-05-10,Bengaluru,Surat,981,2135.3,Truck,12.6,23.98,12464.13,Delayed
+SHP10131,2026-05-11,Ahmedabad,Surat,882,156.5,Tempo,18.0,17.49,10422.35,Delayed
+SHP10132,2026-05-12,Delhi,Bengaluru,866,494.7,Van,19.1,17.63,11369.21,Delivered
+SHP10133,2026-05-13,Chennai,Hyderabad,208,630.0,Truck,4.6,8.33,4394.88,Delivered
+SHP10134,2026-05-14,Hyderabad,Nashik,874,661.0,Van,14.6,19.38,12876.54,Delivered
+SHP10135,2026-05-15,Mumbai,Surat,1208,1449.5,Tempo,32.2,28.79,15324.23,Delivered
+SHP10136,2026-05-16,Bengaluru,Pune,511,1069.8,Tempo,22.4,15.72,8684.55,Delivered
+SHP10137,2026-05-17,Bengaluru,Nashik,936,170.7,Truck,7.0,21.9,9829.25,Delivered
+SHP10138,2026-05-18,Delhi,Pune,123,965.4,Container,12.5,8.09,4072.79,Delivered
+SHP10139,2026-05-19,Delhi,Pune,573,1333.2,Truck,7.5,19.48,9243.2,Delivered
+SHP10140,2026-05-20,Hyderabad,Bengaluru,700,299.1,Mini Truck,1.8,15.02,7214.01,Delivered
+SHP10141,2026-05-21,Mumbai,Chennai,1475,2092.0,Container,32.5,33.7,14428.88,Delivered
+SHP10142,2026-05-22,Pune,Pune,384,177.3,Truck,16.2,13.5,5783.96,Delayed
+SHP10143,2026-05-23,Ahmedabad,Delhi,472,2315.9,Tempo,11.5,18.42,9542.6,In Transit
+SHP10144,2026-05-24,Delhi,Delhi,660,292.8,Tempo,21.3,13.57,8740.15,Delivered
+SHP10145,2026-05-25,Hyderabad,Bengaluru,1489,2116.8,Truck,1.2,33.47,16258.4,In Transit
+SHP10146,2026-05-26,Hyderabad,Nashik,1291,2261.5,Mini Truck,10.5,33.42,16101.91,Delivered
+SHP10147,2026-05-27,Hyderabad,Delhi,129,2449.9,Mini Truck,24.9,10.86,5739.9,In Transit
+SHP10148,2026-05-28,Bengaluru,Mumbai,412,2015.0,Container,22.5,14.76,8493.61,In Transit
+SHP10149,2026-05-29,Bengaluru,Pune,1246,1959.7,Van,34.4,29.02,18133.58,Delivered
+SHP10150,2026-05-30,Ahmedabad,Mumbai,162,1624.1,Van,22.1,8.5,4363.84,Delayed
+SHP10151,2026-05-31,Nagpur,Mumbai,1295,1958.5,Truck,17.2,30.92,18323.95,In Transit
+SHP10152,2026-06-01,Delhi,Hyderabad,479,379.7,Truck,26.9,12.75,5848.28,In Transit
+SHP10153,2026-06-02,Chennai,Bengaluru,1383,1363.4,Truck,31.7,31.01,14639.7,In Transit
+SHP10154,2026-06-03,Nagpur,Bengaluru,496,1309.8,Tempo,25.5,15.05,6841.2,Delivered
+SHP10155,2026-06-04,Mumbai,Surat,696,2151.1,Truck,33.7,18.37,11336.47,Delivered
+SHP10156,2026-06-05,Ahmedabad,Hyderabad,1019,1183.9,Mini Truck,27.6,25.28,13051.96,Delayed
+SHP10157,2026-06-06,Bengaluru,Mumbai,259,993.5,Van,30.5,15.96,5907.16,Delivered
+SHP10158,2026-06-07,Nagpur,Bengaluru,870,1616.9,Van,4.9,18.57,10664.15,Delivered
+SHP10159,2026-06-08,Hyderabad,Delhi,797,702.8,Van,25.9,20.14,10383.45,Delivered
+SHP10160,2026-06-09,Ahmedabad,Surat,1193,392.4,Mini Truck,16.0,24.73,14425.66,Delivered
+SHP10161,2026-06-10,Pune,Delhi,1494,1220.8,Container,19.8,34.06,21032.05,Delivered
+SHP10162,2026-06-11,Pune,Mumbai,1023,1071.4,Container,23.2,24.22,13122.94,Delayed
+SHP10163,2026-06-12,Nagpur,Chennai,661,619.8,Truck,34.0,18.43,7926.14,Delivered
+SHP10164,2026-06-13,Hyderabad,Bengaluru,657,950.4,Tempo,34.5,19.65,8959.74,Delayed
+SHP10165,2026-06-14,Hyderabad,Pune,673,947.7,Tempo,10.8,17.98,8572.71,Delayed
+SHP10166,2026-06-15,Pune,Chennai,1235,852.4,Mini Truck,25.9,29.94,17388.71,Delivered
+SHP10167,2026-06-16,Pune,Mumbai,536,979.7,Container,26.5,10.46,7358.86,Delivered
+SHP10168,2026-06-17,Ahmedabad,Surat,317,1730.1,Container,12.8,15.42,6479.36,Delivered
+SHP10169,2026-06-18,Delhi,Surat,554,777.3,Tempo,5.2,15.93,6239.98,In Transit
+SHP10170,2026-06-19,Hyderabad,Delhi,112,2374.7,Container,2.4,11.58,5388.47,Delayed
+SHP10171,2026-06-20,Delhi,Hyderabad,230,2295.1,Container,27.4,9.02,6219.08,Delivered
+SHP10172,2026-06-21,Delhi,Hyderabad,207,1228.2,Tempo,17.6,7.86,5959.34,Delivered
+SHP10173,2026-06-22,Pune,Chennai,1175,854.5,Mini Truck,34.5,26.88,13432.05,Delivered
+SHP10174,2026-06-23,Nagpur,Pune,1105,1361.8,Container,16.8,26.0,16817.48,Delivered
+SHP10175,2026-06-24,Nagpur,Delhi,1069,2129.0,Container,34.2,27.04,17740.19,In Transit
+SHP10176,2026-06-25,Mumbai,Mumbai,735,1648.8,Van,15.0,21.89,9307.92,Delayed
+SHP10177,2026-06-26,Delhi,Chennai,1098,2020.8,Truck,28.0,23.32,15372.48,Delivered
+SHP10178,2026-06-27,Hyderabad,Pune,309,1355.2,Tempo,3.9,13.5,6921.06,Delayed
+SHP10179,2026-06-28,Bengaluru,Hyderabad,1358,1600.6,Van,19.9,30.99,17797.32,Delivered
+SHP10180,2026-06-29,Chennai,Chennai,791,756.0,Tempo,28.3,19.05,9352.42,Delayed
+SHP10181,2026-06-30,Delhi,Nashik,1412,1850.5,Van,32.4,29.37,15545.74,Delivered
+SHP10182,2026-07-01,Mumbai,Delhi,296,545.9,Truck,29.0,11.17,5382.99,Delivered
+SHP10183,2026-07-02,Delhi,Pune,786,1752.3,Truck,2.3,15.97,13158.8,In Transit
+SHP10184,2026-07-03,Hyderabad,Chennai,1068,2158.8,Container,13.7,27.8,17780.22,Delivered
+SHP10185,2026-07-04,Pune,Pune,783,373.7,Mini Truck,2.7,15.79,11539.55,Delivered
+SHP10186,2026-07-05,Ahmedabad,Pune,713,1555.2,Tempo,4.7,19.29,10466.45,In Transit
+SHP10187,2026-07-06,Mumbai,Nashik,316,283.0,Tempo,24.0,9.91,5386.26,Delivered
+SHP10188,2026-07-07,Mumbai,Surat,621,1828.0,Tempo,25.3,20.24,10339.19,Delivered
+SHP10189,2026-07-08,Hyderabad,Chennai,419,257.0,Van,27.3,11.63,5923.95,Delivered
+SHP10190,2026-07-09,Hyderabad,Surat,508,2343.1,Truck,30.4,15.2,8216.72,Delivered
+SHP10191,2026-07-10,Delhi,Pune,1050,386.6,Container,26.1,22.63,10854.64,Delivered
+SHP10192,2026-07-11,Delhi,Pune,975,2399.3,Van,28.2,27.7,15799.16,Delivered
+SHP10193,2026-07-12,Mumbai,Delhi,942,2012.2,Container,2.7,25.07,11350.19,Delayed
+SHP10194,2026-07-13,Chennai,Pune,593,1504.5,Mini Truck,9.0,16.16,7727.01,Delivered
+SHP10195,2026-07-14,Bengaluru,Nashik,1442,1967.4,Truck,22.1,32.56,19363.35,Delivered
+SHP10196,2026-07-15,Mumbai,Pune,204,1998.0,Container,30.2,7.43,5318.03,Delayed
+SHP10197,2026-07-16,Bengaluru,Hyderabad,566,2367.8,Tempo,1.2,18.45,9495.44,Delivered
+SHP10198,2026-07-17,Nagpur,Surat,247,670.8,Truck,18.5,5.93,5510.61,Delayed
+SHP10199,2026-07-18,Delhi,Chennai,561,1495.7,Mini Truck,24.0,17.84,10055.94,Delivered
+SHP10200,2026-07-19,Nagpur,Mumbai,1445,282.9,Van,2.0,30.93,13187.8,In Transit
+SHP10201,2026-07-20,Delhi,Bengaluru,600,1559.6,Mini Truck,14.6,21.91,7803.06,Delivered
+SHP10202,2026-07-21,Pune,Hyderabad,1370,469.7,Truck,31.5,27.38,13803.83,Delivered
+SHP10203,2026-07-22,Delhi,Surat,782,1434.1,Container,23.8,20.06,12906.69,Delayed
+SHP10204,2026-07-23,Delhi,Bengaluru,1073,1452.5,Truck,9.1,29.18,15216.64,Delivered
+SHP10205,2026-07-24,Mumbai,Delhi,729,1191.7,Van,30.0,21.34,8331.37,Delivered
+SHP10206,2026-07-25,Hyderabad,Surat,457,1330.4,Van,12.8,12.82,7989.35,Delivered
+SHP10207,2026-07-26,Delhi,Nashik,1165,1921.6,Van,30.0,28.37,14090.02,Delivered
+SHP10208,2026-07-27,Chennai,Bengaluru,1456,2008.1,Van,11.2,33.35,16365.34,Delivered
+SHP10209,2026-07-28,Bengaluru,Pune,454,1255.8,Mini Truck,21.1,14.61,9256.47,Delivered
+SHP10210,2026-07-29,Bengaluru,Hyderabad,1185,1519.0,Mini Truck,14.5,26.32,13441.56,Delivered
+SHP10211,2026-07-30,Bengaluru,Nashik,450,2331.5,Mini Truck,10.3,15.33,9183.85,Delivered
+SHP10212,2026-07-31,Pune,Nashik,1097,343.3,Tempo,31.1,21.24,12174.73,Delivered
+SHP10213,2026-08-01,Chennai,Bengaluru,1200,336.9,Van,7.4,26.57,14228.0,Delivered
+SHP10214,2026-08-02,Mumbai,Mumbai,718,264.9,Container,3.9,18.33,10386.92,Delivered
+SHP10215,2026-08-03,Chennai,Hyderabad,1126,1661.8,Container,12.6,26.39,16486.59,Delivered
+SHP10216,2026-08-04,Nagpur,Surat,466,1075.6,Van,25.4,10.78,6811.88,Delivered
+SHP10217,2026-08-05,Ahmedabad,Nashik,192,1947.1,Container,28.5,12.25,5809.14,Delivered
+SHP10218,2026-08-06,Bengaluru,Pune,216,1694.5,Mini Truck,35.0,11.08,6326.74,Delivered
+SHP10219,2026-08-07,Delhi,Delhi,714,867.4,Tempo,11.1,16.77,9093.75,Delivered
+SHP10220,2026-08-08,Ahmedabad,Bengaluru,1361,2251.0,Tempo,14.9,31.4,21474.23,Delivered
+SHP10221,2026-08-09,Delhi,Pune,261,1918.2,Truck,5.7,8.48,7349.79,Delivered
+SHP10222,2026-08-10,Bengaluru,Nashik,727,712.8,Container,20.5,16.19,7978.88,Delivered
+SHP10223,2026-08-11,Ahmedabad,Pune,1079,942.3,Container,34.9,23.89,14814.42,Delivered
+SHP10224,2026-08-12,Nagpur,Chennai,367,820.4,Container,24.8,14.3,5429.28,Delayed
+SHP10225,2026-08-13,Nagpur,Nashik,1104,436.1,Tempo,21.2,23.42,12103.81,Delivered
+SHP10226,2026-08-14,Mumbai,Chennai,514,412.1,Container,14.3,15.21,7040.4,Delivered
+SHP10227,2026-08-15,Nagpur,Surat,1228,2343.5,Van,32.1,28.6,15297.91,Delivered
+SHP10228,2026-08-16,Mumbai,Delhi,902,1122.9,Tempo,17.9,22.5,11911.26,Delivered
+SHP10229,2026-08-17,Hyderabad,Surat,856,989.1,Tempo,5.6,20.69,12002.42,Delivered
+SHP10230,2026-08-18,Nagpur,Bengaluru,331,1837.7,Truck,13.4,14.39,7912.69,Delivered
+SHP10231,2026-08-19,Chennai,Pune,737,1404.8,Container,3.3,18.34,13034.62,Delivered
+SHP10232,2026-08-20,Nagpur,Delhi,1296,2343.5,Van,7.9,27.77,17515.14,Delivered
+SHP10233,2026-08-21,Delhi,Delhi,107,1961.7,Container,1.6,5.98,3952.1,Delayed
+SHP10234,2026-08-22,Delhi,Hyderabad,1157,1224.5,Van,16.4,25.72,15020.64,In Transit
+SHP10235,2026-08-23,Delhi,Delhi,779,972.1,Van,22.6,17.05,11774.88,Delivered
+SHP10236,2026-08-24,Delhi,Bengaluru,1101,2467.2,Container,12.7,28.36,15821.95,Delivered
+SHP10237,2026-08-25,Chennai,Bengaluru,1021,1808.5,Tempo,15.3,24.22,12922.9,Delayed
+SHP10238,2026-08-26,Bengaluru,Delhi,693,2380.4,Truck,33.6,24.75,11200.42,Delivered
+SHP10239,2026-08-27,Chennai,Chennai,518,340.3,Truck,26.6,10.43,5913.71,Delayed
+SHP10240,2026-08-28,Bengaluru,Delhi,970,2133.8,Mini Truck,19.4,25.09,15759.68,Delivered
+SHP10241,2026-08-29,Delhi,Surat,279,1610.8,Tempo,10.7,9.12,5691.42,In Transit
+SHP10242,2026-08-30,Pune,Delhi,909,348.7,Container,31.5,20.04,11741.54,In Transit
+SHP10243,2026-08-31,Hyderabad,Surat,214,1491.2,Tempo,9.0,10.3,5356.19,Delivered
+SHP10244,2026-09-01,Nagpur,Delhi,1002,1730.9,Truck,12.1,20.04,14144.62,Delivered
+SHP10245,2026-09-02,Ahmedabad,Pune,972,80.1,Mini Truck,31.9,22.26,10411.83,Delivered
+SHP10246,2026-09-03,Delhi,Mumbai,199,1163.1,Van,19.0,13.09,4936.98,Delivered
+SHP10247,2026-09-04,Bengaluru,Surat,1155,2072.2,Van,26.2,27.05,17836.13,Delivered
+SHP10248,2026-09-05,Chennai,Surat,670,773.6,Mini Truck,21.1,17.81,9992.25,In Transit
+SHP10249,2026-09-06,Hyderabad,Mumbai,1197,1173.4,Van,23.2,29.49,14639.34,Delivered
+SHP10250,2026-09-07,Mumbai,Hyderabad,139,1133.7,Container,11.2,7.82,4275.24,Delivered
+SHP10251,2026-09-08,Hyderabad,Hyderabad,334,789.7,Van,9.2,10.04,5468.75,Delayed
+SHP10252,2026-09-09,Mumbai,Mumbai,781,2300.2,Van,12.0,16.93,13945.17,Delivered
+SHP10253,2026-09-10,Mumbai,Bengaluru,347,1964.2,Container,6.3,14.4,7703.89,Delivered
+SHP10254,2026-09-11,Chennai,Chennai,548,320.9,Mini Truck,30.7,14.2,6378.76,In Transit
+SHP10255,2026-09-12,Mumbai,Nashik,1018,2492.7,Container,10.6,24.04,14378.06,Delivered
+SHP10256,2026-09-13,Delhi,Surat,285,2204.0,Mini Truck,20.1,12.58,5593.98,Delivered
+SHP10257,2026-09-14,Hyderabad,Pune,1042,745.6,Mini Truck,27.9,22.84,9867.75,Delivered
+SHP10258,2026-09-15,Chennai,Mumbai,226,2100.4,Container,27.7,10.05,5866.48,In Transit
+SHP10259,2026-09-16,Bengaluru,Bengaluru,328,310.7,Tempo,15.9,11.62,5112.71,Delivered
+SHP10260,2026-09-17,Mumbai,Mumbai,914,2497.8,Tempo,17.2,21.51,14570.2,Delivered
+SHP10261,2026-09-18,Ahmedabad,Hyderabad,1206,1680.9,Mini Truck,34.8,30.42,13051.51,Delivered
+SHP10262,2026-09-19,Nagpur,Pune,322,1642.8,Tempo,23.9,9.41,7183.85,Delivered
+SHP10263,2026-09-20,Nagpur,Pune,505,271.6,Truck,28.7,12.24,7390.26,In Transit
+SHP10264,2026-09-21,Chennai,Pune,1393,2247.7,Container,31.7,36.38,15084.38,Delivered
+SHP10265,2026-09-22,Bengaluru,Delhi,1485,121.0,Tempo,27.8,33.43,13177.11,In Transit
+SHP10266,2026-09-23,Nagpur,Surat,905,640.0,Van,7.3,21.56,12758.88,Delivered
+SHP10267,2026-09-24,Bengaluru,Mumbai,714,400.4,Tempo,20.1,15.67,9965.77,Delivered
+SHP10268,2026-09-25,Pune,Nashik,572,1953.1,Tempo,4.5,16.13,9143.73,Delayed
+SHP10269,2026-09-26,Ahmedabad,Delhi,949,535.6,Truck,23.2,22.17,12922.57,Delivered
+SHP10270,2026-09-27,Delhi,Pune,919,2281.1,Truck,33.5,24.04,10646.35,Delivered
+SHP10271,2026-09-28,Nagpur,Delhi,498,1657.9,Mini Truck,18.4,15.24,9158.06,Delayed
+SHP10272,2026-09-29,Delhi,Chennai,112,138.6,Mini Truck,15.7,6.17,2839.3,Delivered
+SHP10273,2026-09-30,Ahmedabad,Pune,295,63.3,Mini Truck,2.2,9.03,4003.53,Delivered
+SHP10274,2026-10-01,Hyderabad,Pune,1441,176.6,Mini Truck,33.6,27.57,17254.27,In Transit
+SHP10275,2026-10-02,Bengaluru,Surat,673,1534.5,Container,4.5,17.4,10091.86,Delivered
+SHP10276,2026-10-03,Delhi,Hyderabad,764,2013.6,Truck,2.4,22.6,12552.85,Delivered
+SHP10277,2026-10-04,Ahmedabad,Delhi,743,634.5,Mini Truck,9.4,15.68,9267.36,Delivered
+SHP10278,2026-10-05,Mumbai,Surat,1191,2131.1,Truck,3.2,28.32,16276.81,Delivered
+SHP10279,2026-10-06,Bengaluru,Surat,172,190.2,Mini Truck,16.5,5.76,3155.65,Delivered
+SHP10280,2026-10-07,Delhi,Delhi,197,2012.4,Container,18.5,10.68,5848.36,Delivered
+SHP10281,2026-10-08,Hyderabad,Hyderabad,471,2323.1,Truck,11.6,15.11,9601.01,Delivered
+SHP10282,2026-10-09,Delhi,Pune,771,1941.7,Mini Truck,2.7,23.75,9064.47,Delivered
+SHP10283,2026-10-10,Chennai,Delhi,1032,1760.4,Truck,4.8,26.29,11828.6,Delivered
+SHP10284,2026-10-11,Bengaluru,Hyderabad,776,2103.1,Van,14.1,18.49,9873.82,Delivered
+SHP10285,2026-10-12,Pune,Mumbai,706,148.4,Container,3.1,18.39,7293.24,Delivered
+SHP10286,2026-10-13,Pune,Nashik,1411,544.4,Mini Truck,24.7,28.88,17652.75,Delivered
+SHP10287,2026-10-14,Chennai,Nashik,308,356.1,Truck,8.0,8.95,4973.95,Delivered
+SHP10288,2026-10-15,Delhi,Delhi,891,1286.1,Truck,11.3,22.66,13901.89,Delivered
+SHP10289,2026-10-16,Delhi,Bengaluru,849,1875.7,Tempo,14.4,21.13,11544.47,Delayed
+SHP10290,2026-10-17,Chennai,Mumbai,752,1593.5,Container,15.2,21.73,11405.48,Delivered
+SHP10291,2026-10-18,Delhi,Hyderabad,1226,2135.3,Tempo,1.1,27.79,14695.54,Delivered
+SHP10292,2026-10-19,Bengaluru,Pune,459,430.3,Van,4.8,11.72,6383.55,In Transit
+SHP10293,2026-10-20,Pune,Bengaluru,1434,1849.8,Mini Truck,30.3,31.4,20731.01,Delivered
+SHP10294,2026-10-21,Delhi,Hyderabad,550,523.0,Mini Truck,1.0,13.62,8941.92,Delivered
+SHP10295,2026-10-22,Chennai,Hyderabad,853,713.4,Tempo,18.3,22.73,12131.01,Delivered
+SHP10296,2026-10-23,Hyderabad,Hyderabad,819,1789.3,Mini Truck,17.6,22.7,10821.66,Delivered
+SHP10297,2026-10-24,Nagpur,Mumbai,1286,2451.5,Van,12.3,34.3,16401.79,Delivered
+SHP10298,2026-10-25,Ahmedabad,Surat,703,1548.3,Truck,15.7,23.53,11138.23,Delayed
+SHP10299,2026-10-26,Mumbai,Chennai,484,183.5,Tempo,27.5,11.0,5810.94,Delivered
+SHP10300,2026-10-27,Bengaluru,Surat,110,1560.0,Tempo,29.6,8.37,5162.35,Delayed
+SHP10006,2026-01-06,Chennai,Hyderabad,1299,1697.0,Mini Truck,7.2,30.12,16289.43,Delivered
+SHP10026,2026-01-26,Nagpur,Mumbai,994,160.0,Truck,11.4,20.68,10015.61,In Transit
+SHP10076,2026-03-17,Nagpur,Nashik,755,2315.8,Mini Truck,13.4,19.12,11825.61,Delivered
+SHP10126,2026-05-06,Delhi,Delhi,882,1014.4,Van,18.2,18.24,10889.16,Delivered
+SHP10176,2026-06-25,Mumbai,Mumbai,735,1648.8,Van,15.0,21.89,9307.92,Delayed
